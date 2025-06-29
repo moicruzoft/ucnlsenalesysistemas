@@ -1,5 +1,5 @@
 #-------------------------------------------------------------------------------
-# Name:        Actividad 2
+# Name:        Actividad 2 codigo 2
 # Purpose:
 #
 # Author:      moises cruz cruz
