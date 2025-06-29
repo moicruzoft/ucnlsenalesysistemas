@@ -5,4 +5,4 @@ Señales y sistemas
 
 Carrera de Ingeieria en Diseño de Software
 
-Ejempñlos de codigos
+Ejemplos de codigos
